@@ -6,5 +6,5 @@ The repo defines the a bundle and test command through gulp:
  $ gulp test
  $ gulp bundle
  
-For testing, the repo utilizing enzyme. Sample test files can be found under 
+For testing, the repo utilizes enzyme. Sample test files can be found under 
 the /test directory.
