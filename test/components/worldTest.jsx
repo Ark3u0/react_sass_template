@@ -1,5 +1,5 @@
 import React from 'react';
-import World from './../src/world.jsx';
+import World from './../../src/components/world.jsx';
 import { shallow } from 'enzyme';
 
 
