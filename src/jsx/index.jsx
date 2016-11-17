@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom';
 import Hello from './components/hello.jsx';
 import World from './components/world.jsx';
 
-import StyleSheet from './master.scss';
+import StyleSheet from './../scss/master.scss';
 
 const { Component } = React;
 

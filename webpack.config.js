@@ -22,7 +22,7 @@ module.exports = {
   ]
  },
  devtool: "inline-source-map",
- entry: SRC_DIR + '/index.jsx',
+ entry: SRC_DIR + '/jsx/index.jsx',
  output: {
   filename: 'index.js'
  }

@@ -1,5 +1,5 @@
 import React from 'react';
-import Hello from './../../src/components/hello.jsx';
+import Hello from '../../../src/jsx/components/hello.jsx';
 import { shallow } from 'enzyme';
 
 
